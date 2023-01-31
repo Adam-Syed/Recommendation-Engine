@@ -1,0 +1,5 @@
+Recommendation Engine:
+
+1) Use IMDB 50k+ reviews to conduct sentiment analysis to gather implicit data on reviews of movies. ////
+
+2) Use explicit data such as star ratings from users to gather profiles.
